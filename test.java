@@ -3,5 +3,8 @@ public class test {
     {
         System.out.println("I am sirun sununtasin");
     }
+    public int plusMethod(int a, int b){
+        return a+b;
+    }
 }
 
